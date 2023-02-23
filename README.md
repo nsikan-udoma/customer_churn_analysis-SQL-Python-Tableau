@@ -9,4 +9,5 @@ Established customers - those who had been with the bank for 25 to 36 months –
 Overall, the Tableau dashboard highlighted the importance of understanding customer demographics, account information, and transaction behavior in predicting and preventing customer churn.
 
 [Link to Notebook for SQL and Python sections of the project](https://github.com/nsikan-udoma/customer-churn-analysis/blob/main/Analyzing%20Customer%20Churn%20of%20a%20Bank's%20Credit%20Card%20Service.ipynb)
+
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/nsikan.udoma/viz/DollarBankCustomerChurnDashboard/CustomerChurnDashboard)
