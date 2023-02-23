@@ -6,7 +6,7 @@ Customers with higher income earnings tended to have lower churn rates, while th
 
 Established customers - those who had been with the bank for 25 to 36 months – churned the most, with a churn rate of 5% for females and 3.6% for males. Additionally, long-term customers (those with the bank for 37-48 months) had the second-highest churn rate in both female and male customers, with rates of 2.8% and 2.3%, respectively. These findings suggested that the bank needed more efforts in retaining its established and long-term customers in all income categories. Pareto analysis was used to identify the 20% (vital few) area of interest for each custom demographic customer segment. And Targeted marketing ad campaigns were recommended to effectively target member of the 20% vital few. Campaigns included: Rewards and incentives e.g sign-up bonus or cash back rewards on purchases. Partnering with fitness brands and offering discounts on gym memberships or workout gears etc.
 
-Overall, the Tableau dashboard highlighted the importance of understanding customer demographics, account information, and transaction behavior in predicting and preventing customer churn.
+The Tableau dashboard highlighted the importance of understanding customer demographics, account information, and transaction behavior in predicting and preventing customer churn.
 
 [Link to Notebook for SQL and Python sections of the project](https://github.com/nsikan-udoma/customer-churn-analysis/blob/main/Analyzing%20Customer%20Churn%20of%20a%20Bank's%20Credit%20Card%20Service.ipynb)
 
