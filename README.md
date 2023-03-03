@@ -1,4 +1,4 @@
-# Customer Churn Analysis (End-toEnd Project using SQL, Python and Tableau)
+# Customer Churn Analysis (End-to-End Project using SQL, Python and Tableau)
 Dollar Bank Customer Churn Analysis using SQL + Python + Tableau:  An end-to-end project that involved exploratory analysis with SQL, a deep-dive EDA using Python, and building an interactive dashboard with Tableau to present meaningful business insights for the bank. 
 
 Overall, the bank had a churn rate of 16%, meaning that 16% of customers stopped using the bank's credit card services in the given time period. Customer churn varied significantly by age, with the highest churn rates among customers in their 40's and 50's.
