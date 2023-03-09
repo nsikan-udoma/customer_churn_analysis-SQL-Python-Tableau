@@ -3,7 +3,7 @@
 ![Cropped - Customer Churn Dashboard](https://user-images.githubusercontent.com/24312721/224085369-e520eb0f-3e8e-4168-9993-53af01f0ea90.png)
 
 <p align="center">
-Customer Churn Dashboard (Tableau) - See link to Dashboard at the bottom of this page  
+<em> Customer Churn Dashboard (Tableau) - See link to Dashboard at the bottom of this page </em> 
   </p>
   
   <br>
