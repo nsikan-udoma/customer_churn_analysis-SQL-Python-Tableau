@@ -6,6 +6,7 @@
 Customer Churn Dashboard (Tableau) - See link to Dashboard at the bottom of this page  
   </p>
   
+  <br>
   
 Dollar Bank Customer Churn Analysis using SQL + Python + Tableau:  An end-to-end project that involved exploratory analysis with SQL, a deep-dive EDA using Python, and building an interactive dashboard with Tableau to present meaningful business insights for the bank. 
 
