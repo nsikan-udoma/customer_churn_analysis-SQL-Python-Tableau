@@ -26,6 +26,7 @@ The Tableau dashboard highlighted the importance of understanding customer demog
 
 <br>
 
+
 ## Insights
 
 <br>
@@ -37,6 +38,9 @@ The Tableau dashboard highlighted the importance of understanding customer demog
 **Transaction Amounts:** The dashboard also shows the average transaction amount for all customers is \$4,404, which suggests that the bank's customer base includes customers with a range of spending levels. However, the average transaction amount for churned customers is \$3,095, which is significantly lower than the average for all customers. This may indicate that customers who spend less money on transactions are more likely to churn, perhaps because they are not as invested in the bank's services or do not find them as useful. The bank may want to consider strategies for encouraging customers to increase their transaction amounts in order to improve retention rates. For example, they could offer rewards programs or incentives for customers who maintain high transaction volumes or balances. Alternatively, they could explore ways to improve their services or product offerings to make them more attractive to customers with lower transaction amounts.
 
 <br>
+
+<br>
+
 
 ![Customer Churn Demographics](https://user-images.githubusercontent.com/24312721/230170768-b0b97eb6-208a-4f3b-ad44-c6b97fc0a4f7.png)
 
@@ -50,12 +54,18 @@ This information can be used to tailor marketing and communication efforts to sp
 
 <br>
 
+<br>
+
+
 ![Visualizing customer spending behaviours](https://user-images.githubusercontent.com/24312721/230170857-a811bbf2-0776-4e12-b8df-ebf46363f200.png)
 
 
 **Customer Behavior:** Visualizing customer spending behaviors and connection to churn reveals that customers with higher number of transactions and higher transaction amounts are less likely to churn. Additionally, the scatter plot shows that customers who churned made less than 100 transactions and typically spent less than 5K before churning, regardless of income category. This suggests that offering incentives for customers to maintain high levels of activity and transaction amounts may be an effective retention strategy.
 
 <br>
+
+<br>
+
 
 ![Paretor Analysis of Customers](https://user-images.githubusercontent.com/24312721/230170946-475b706b-8f35-4b7e-8598-fce1ca3032f6.png)
 
