@@ -20,7 +20,7 @@ SQL queries were used to explore and understand the data, and joining all 3 data
 
 <br>
 
-![KPIs Only - Customer Churn Dashboard](KPIs%20Only%20-%20Customer%20Churn%20Dashboard.png)
+![KPIs Only - Customer Churn Dashboard](https://user-images.githubusercontent.com/24312721/230170655-11755678-2998-4c2e-9a9c-72555ed84a82.png)
 
 **Overall Churn Rate:** The overall churn rate is 16\%, which indicates that around one in six customers were churning. This is a key metric for the bank to continuously monitor in its effort to mitigate churn and increase customer retention.
 
@@ -28,7 +28,8 @@ SQL queries were used to explore and understand the data, and joining all 3 data
 
 <br>
 
-![Customer Churn Demographics](Customer%20Churn%20Demographics.png)
+
+![Customer Churn Demographics](https://user-images.githubusercontent.com/24312721/230170768-b0b97eb6-208a-4f3b-ad44-c6b97fc0a4f7.png)
 
 **Customer Demographics:** Overall, the average customer age is 46 yrs, and there are more female customers than male customers, with the majority of customers in the 41-50 age range. The churn summary indicates that female clients also aged between 41-50 have the highest churn rate, with 4.4\% of the 2461 female clients in this age group having churned, compared to 3.3\% of the 2191 male clients in the same age group. Overall, the churn rate is higher for females at 9.2\% across all age groups, compared to 6.9\% for males across all age groups. 
 
@@ -40,13 +41,15 @@ This information can be used to tailor marketing and communication efforts to sp
 
 <br>
 
-![Visualizing customer spending behaviours](Visualizing%20customer%20spending%20behaviours.png)
+![Visualizing customer spending behaviours](https://user-images.githubusercontent.com/24312721/230170857-a811bbf2-0776-4e12-b8df-ebf46363f200.png)
+
 
 **Customer Behavior:** Visualizing customer spending behaviors and connection to churn reveals that customers with higher number of transactions and higher transaction amounts are less likely to churn. Additionally, the scatter plot shows that customers who churned made less than 100 transactions and typically spent less than 5K before churning, regardless of income category. This suggests that offering incentives for customers to maintain high levels of activity and transaction amounts may be an effective retention strategy.
 
 <br>
 
-![Paretor Analysis of Customers](Paretor%20Analysis%20of%20Customers.png)
+![Paretor Analysis of Customers](https://user-images.githubusercontent.com/24312721/230170946-475b706b-8f35-4b7e-8598-fce1ca3032f6.png)
+
 
 **Short-Term vs Long-Term Focus:**
 Vital few - The Pareto analysis reveals that around 20\% of the total churned customers are responsible for approximately 80\% of the total churn. This means that a small subset of customers is responsible for the majority of customer churn.
