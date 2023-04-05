@@ -20,7 +20,7 @@ SQL queries were used to explore and understand the data, and joining all 3 data
 
 [Link to Python Notebook](https://github.com/nsikan-udoma/customer_churn_analysis-SQL-Python-Tableau/blob/main/Supporting%20Files/notebook.ipynb)
 
-[Test](Supporting Files/notebook.ipynb)
+[Test](Supporting%20Files/notebook.ipynb)
 
 
 The Tableau dashboard highlighted the importance of understanding customer demographics, account information, and transaction behavior in predicting and preventing customer churn. Click the link below to use the dashboard.
