@@ -6,7 +6,7 @@
 <em> Customer Churn Dashboard (Tableau) - See link to Dashboard at the bottom of this page </em> 
   </p>
   
-  <br>
+<br>
  
 ## Introduction 
 Dollar Bank Customer Churn Analysis using SQL + Python + Tableau:  An end-to-end project that involved exploratory analysis with SQL, a deep-dive EDA using Python, and building an interactive dashboard with Tableau to present meaningful business insights for the bank. 
@@ -24,6 +24,7 @@ The Tableau dashboard highlighted the importance of understanding customer demog
 
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/nsikan.udoma/viz/DollarBankCustomerChurnDashboard/CustomerChurnDashboard)
 
+<br>
 
 ## Insights
 
@@ -36,7 +37,6 @@ The Tableau dashboard highlighted the importance of understanding customer demog
 **Transaction Amounts:** The dashboard also shows the average transaction amount for all customers is \$4,404, which suggests that the bank's customer base includes customers with a range of spending levels. However, the average transaction amount for churned customers is \$3,095, which is significantly lower than the average for all customers. This may indicate that customers who spend less money on transactions are more likely to churn, perhaps because they are not as invested in the bank's services or do not find them as useful. The bank may want to consider strategies for encouraging customers to increase their transaction amounts in order to improve retention rates. For example, they could offer rewards programs or incentives for customers who maintain high transaction volumes or balances. Alternatively, they could explore ways to improve their services or product offerings to make them more attractive to customers with lower transaction amounts.
 
 <br>
-
 
 ![Customer Churn Demographics](https://user-images.githubusercontent.com/24312721/230170768-b0b97eb6-208a-4f3b-ad44-c6b97fc0a4f7.png)
 
