@@ -13,6 +13,8 @@ Dollar Bank Customer Churn Analysis using SQL + Python + Tableau:  An end-to-end
 
 Dollar Bank was concerned that more and more customers were leaving its credit card services. They asked for a seasoned Data Analyst to analyze the problem for them in order to understand the main reasons for customers leaving the services. They also needed me to come up with recommendations for how the bank can mitigate further customer churns. Eventually, the bank wanted to proactively implement these recommendations in order to keep their customers happy.
 
+---
+
 ## Methodology
 SQL queries were used to explore and understand the data, and joining all 3 datasets was critical in answering research questions to generate valuable insights for the business. 
 
