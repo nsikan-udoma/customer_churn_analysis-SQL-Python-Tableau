@@ -26,6 +26,8 @@ The Tableau dashboard highlighted the importance of understanding customer demog
 
 [Link to Tableau Dashboard](https://public.tableau.com/app/profile/nsikan.udoma/viz/DollarBankCustomerChurnDashboard/CustomerChurnDashboard)
 
+---
+
 <br>
 
 
