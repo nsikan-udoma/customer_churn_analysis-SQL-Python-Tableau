@@ -14,6 +14,7 @@ Dollar Bank Customer Churn Analysis using SQL + Python + Tableau:  An end-to-end
 Dollar Bank was concerned that more and more customers were leaving its credit card services. They asked for a seasoned Data Analyst to analyze the problem for them in order to understand the main reasons for customers leaving the services. They also needed me to come up with recommendations for how the bank can mitigate further customer churns. Eventually, the bank wanted to proactively implement these recommendations in order to keep their customers happy.
 
 ---
+
 <br>
 
 ## Methodology
@@ -78,6 +79,8 @@ This information can be used to tailor marketing and communication efforts to sp
 **Short-Term vs Long-Term Focus:**
 Vital few - The Pareto analysis reveals that around 20\% of the total churned customers are responsible for approximately 80\% of the total churn. This means that a small subset of customers is responsible for the majority of customer churn.
 Customer segments: The dashboard identifies two customer segments that constitute the vital few: female graduates who are married or single, and male graduates who are single. This suggests that Dollar Bank may need to pay special attention to these customer segments to reduce churn.
+
+---
 
 <br>
 
